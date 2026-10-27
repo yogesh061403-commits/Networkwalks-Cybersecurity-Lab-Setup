@@ -38,7 +38,7 @@ This project documents my lab setup and the steps I performed with screenshots.
 
 I launched Kali Linux inside Oracle VirtualBox and reviewed the desktop environment used for this lab.
 
-![Kali Linux Desktop](screenshots/kali-desktop.jpg)
+![Kali Linux Desktop](screenshots./Kali Linux Installed.jpg)
 
 ## 2. VirtualBox Network Settings
 
