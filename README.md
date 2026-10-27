@@ -38,7 +38,7 @@ This project documents my lab setup and the steps I performed with screenshots.
 
 I launched Kali Linux inside Oracle VirtualBox and reviewed the desktop environment used for this lab.
 
-![Kali Linux Desktop](screenshots/Kali%20Linux%20Installed.jpg)
+![Kali Linux Desktop](screenshots./Kali%20Linux%20Installed.jpg)
 
 ## 2. VirtualBox Network Settings
 
@@ -46,17 +46,17 @@ I reviewed the virtual machine's network adapter settings and explored the NAT N
 
 ### VirtualBox Adapter
 
-![VirtualBox Network Settings](screenshots/virtualbox-adapter.png)
+![VirtualBox Network Settings](screenshots./VirtualBox%20Network%20Settings_1.png)
 
 ### NAT Network Configuration
 
-![NAT Network Configuration](screenshots/nat-network.png)
+![NAT Network Configuration](screenshots./VirtualBox%20Network%20Settings_2.png)
 
 ## 3. Kali Linux Network Configuration
 
 I opened the wired connection's IPv4 settings and configured the IP address, network prefix, gateway, and DNS server manually.
 
-![Kali Linux IPv4 Settings](screenshots/ipv4-settings.jpg)
+![Kali Network Settings](screenshots./Kali%20Network%20Settings.jpg)
 
 ## 4. Network Connection Management
 
@@ -72,7 +72,7 @@ sudo nmcli connection up "Wired connection 1"
 
 The terminal displayed successful deactivation and activation messages for the connection.
 
-![NetworkManager Troubleshooting](screenshots/network-commands.jpg)
+![Fixing Internet Connectivity](screenshots./Fixing%20Internet%20Connectivity%20Issues%20for%20Kali%202026.jpg)
 
 ## What I Learned
 
